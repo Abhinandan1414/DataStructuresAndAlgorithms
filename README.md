@@ -31,5 +31,7 @@ You are done!!
 # Alter/modify the Algorithms as per your study purpose
 # Tested with JAVA14.0.1. 
 
+![VisualizerInAction](VisualizerInAction.png)
+
 
 
